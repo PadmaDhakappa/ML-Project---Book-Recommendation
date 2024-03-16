@@ -1,4 +1,4 @@
-Book Recommendation:
+
 **Abstract:**
 This project aims to develop a book recommendation system using three main methods: popularity-based filtering, collaborative filtering, and content-based filtering. By leveraging these techniques, the system seeks to provide personalized book recommendations to users based on their preferences and interactions with books. Through the integration of data analysis and machine learning algorithms, the recommendation system aims to enhance the book discovery process and promote engagement with reading material.
 
